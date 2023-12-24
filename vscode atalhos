@@ -1,0 +1,33 @@
+clique na pasta abra com o terminal e digite ( code . + /nome pasta/ )
+novo projeto Rails usando o seguinte comando: 
+code “rails *projeto*”. cria um novo projeto.
+
+#* Rails server comando fazer a maquina funcionar 
+
+crtl + shift +p palheta de comandos
+crtl + p encontrar arquivos pelo nome facil facil
+crtl+p ? abre as opções do comando 
+crtl+p @ estando com o arquivo aberto ele traz todos os elementos que pode ser usado ou feito nele e com a seta eu consigo navegar e achar o elemento que procuro. saindo já vai estar no elemento selecionado
+seleciona o elemento e + crtl+l cria um muulti cursor que troca todos os nomes de uma só vez
+cody. tras as informções que pode ser usado ou só por o . já aparece
+clicando duas vezes no arquivo modificado ele mostra a diferença abrindo outra janela e mostra
+ctrl+ shift +} abre outra janelado lado
+alt + seta move cima ou baixa a linha com o codigo
+alt + shift + seta clona o codigo cima ou baixo onde prefirir por
+# desativa codigo e fica como comentario
+
+ctrl + shift + d aparesse as variaveis e consegue ver o que esta sendo feito
+
+
+git clone coloque o endereço da pasta clonada
+
+para recuperar chave ssh no rails
+cat ~/.ssh/id_rsa.pub
+
+
+rm -f destroi a pasta
+rm -fr destroi pasta memso cdando erro
+
+cd .. volta a pasta e sai do repositorio
+
+$ touch Gemfile (criar arquivo gemfire)
